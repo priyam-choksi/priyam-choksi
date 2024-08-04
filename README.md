@@ -26,41 +26,51 @@ When I’m not exploring data projects, I enjoy gaming, hiking, or solving puzzl
 
 ## 🛠️ Skills
 
-
-## 🛠️ Skills
-
-### Programming Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-blue?style=flat&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 
-### Data Engineering & Analytics
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-red?style=flat&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat&logo=apachekafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-blue?style=flat&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-blue?style=flat&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-blue?style=flat&logo=snowflake&logoColor=white)
+
+### Big Data & Cloud
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoftazure&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-red?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat&logo=apachekafka&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-orange?style=flat&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-red?style=flat&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat&logo=opencv&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-lightblue?style=flat&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-blue?style=flat&logo=google&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-yellow?style=flat&logo=google&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-green?style=flat&logo=openaigym&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-lightblue?style=flat&logo=openai&logoColor=white)
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-blue?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoftazure&logoColor=white)
-
-### Others
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
+### BI/ETL
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-green?style=flat&logo=microsoftexcel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-blue?style=flat&logo=looker&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-lightblue?style=flat&logo=talend&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat&logo=jupyter&logoColor=white)
-
+![Colab](https://img.shields.io/badge/Colab-blue?style=flat&logo=googlecolab&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-orange?style=flat&logo=googleanalytics&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-green?style=flat&logo=qlik&logoColor=white)
 
 ## 📫 Get in Touch
 
