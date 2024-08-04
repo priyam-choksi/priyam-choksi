@@ -29,61 +29,38 @@ When I’m not exploring data projects, I enjoy gaming, hiking, or solving puzzl
 
 ## 🛠️ Skills
 
-<div style="display: flex; flex-wrap: wrap;">
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-blue?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
 
-<div style="flex: 1; min-width: 200px;">
-  <h3>Programming Languages</h3>
-  <p>
-    ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
-    ![R](https://img.shields.io/badge/R-blue?style=flat&logo=r&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
-  </p>
-</div>
+### Data Engineering & Analytics
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-red?style=flat&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-blue?style=flat&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-blue?style=flat&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 
-<div style="flex: 1; min-width: 200px;">
-  <h3>Data Engineering & Analytics</h3>
-  <p>
-    ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-red?style=flat&logo=apachespark&logoColor=white)
-    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat&logo=apachekafka&logoColor=white)
-    ![Snowflake](https://img.shields.io/badge/Snowflake-blue?style=flat&logo=snowflake&logoColor=white)
-    ![BigQuery](https://img.shields.io/badge/BigQuery-blue?style=flat&logo=googlecloud&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
-  </p>
-</div>
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=flat&logo=scikit-learn&logoColor=white)
 
-<div style="flex: 1; min-width: 200px;">
-  <h3>Machine Learning & AI</h3>
-  <p>
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
-    ![Keras](https://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch&logoColor=white)
-    ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=flat&logo=scikit-learn&logoColor=white)
-  </p>
-</div>
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-blue?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoftazure&logoColor=white)
 
-<div style="flex: 1; min-width: 200px;">
-  <h3>Cloud Platforms</h3>
-  <p>
-    ![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white)
-    ![GCP](https://img.shields.io/badge/GCP-blue?style=flat&logo=googlecloud&logoColor=white)
-    ![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoftazure&logoColor=white)
-  </p>
-</div>
+### Others
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat&logo=jupyter&logoColor=white)
 
-<div style="flex: 1; min-width: 200px;">
-  <h3>Others</h3>
-  <p>
-    ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
-    ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
-    ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat&logo=jupyter&logoColor=white)
-  </p>
-</div>
-
-</div>
 
 ## 📫 Get in Touch
 
