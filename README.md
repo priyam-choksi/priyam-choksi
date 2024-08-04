@@ -1,4 +1,3 @@
-# Priyam Deepak Choksi 🌟
 ![Header Image](https://github.com/priyam-choksi/priyam-choksi/blob/main/header.jpeg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/choksipriyam)
