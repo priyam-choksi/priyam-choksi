@@ -1,4 +1,5 @@
 # Priyam Deepak Choksi 🌟
+![Header Image](https://github.com/priyamchoksi/header.jpeg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/choksipriyam)
 [![Personal Website](https://img.shields.io/badge/Website-pink?style=flat&logo=google-chrome&logoColor=white)](https://priyamchoksi.com)
@@ -10,8 +11,6 @@ Hi there! 👋 I'm Priyam (pronounced "PREE-yum"), a Data Engineer and ML Engine
 
 Currently, I’m learning about Generative AI and Prompt Engineering, learning how to create advanced AI systems that generate content and interact with users in creative ways.
 
-When I’m not exploring data projects, I enjoy gaming, hiking, or solving puzzles.
-
 ---
 
 ## 🚀 About Me
@@ -19,7 +18,7 @@ When I’m not exploring data projects, I enjoy gaming, hiking, or solving puzzl
 - 🌍 **Location:** Boston, MA, USA
 - 🎓 **Education:** M.S. in Information Systems, Northeastern University (Expected May 2025)
 - 💻 **Experience:** Data Engineer Intern at Heeva Infra, ML & Data Science Intern at Fasttrack Software
-- 📚 **Interests:** Data Science, Machine Learning, AI, Cloud Computing, Web Development
+- 📚 **Interests:** Data Science, Machine Learning, AI, Cloud Computing, User Experience
 - 🎮 **Hobbies:** Gaming (MMORPGs, Assassin's Creed: Black Flag), Anime (One Piece), Outdoor Adventures
 
 ---
@@ -67,12 +66,6 @@ When I’m not exploring data projects, I enjoy gaming, hiking, or solving puzzl
 ![Colab](https://img.shields.io/badge/Colab-blue?style=flat&logo=googlecolab&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-orange?style=flat&logo=googleanalytics&logoColor=white)
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-green?style=flat&logo=qlik&logoColor=white)
-
-## 📫 Get in Touch
-
-- **Email:** [choksi.pr@northeastern.edu](mailto:choksi.pr@northeastern.edu)
-- **LinkedIn:** [linkedin.com/choksipriyam](https://linkedin.com/choksipriyam)
-- **Personal Website:** [priyamchoksi.com](https://priyamchoksi.com)
 
 Feel free to reach out if you have any questions or just want to connect!
 
