@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/choksipriyam)
 [![Personal Website](https://img.shields.io/badge/Website-pink?style=flat&logo=google-chrome&logoColor=white)](https://priyamchoksi.com)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:choksi.pr@northeastern.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/priyamchoksi)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/priyam-choksi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/priyamchoksi)
 
 Hi there! 👋 I'm Priyam Deepak Choksi, a passionate Data Scientist and ML Engineer with a knack for creating innovative solutions that bridge the gap between data-driven insights and user-centric design. Currently, I'm pursuing a Master of Science in Information Systems at Northeastern University, Boston.
