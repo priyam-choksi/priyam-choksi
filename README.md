@@ -15,21 +15,19 @@ Currently, I’m learning about Generative AI and Prompt Engineering, learning h
 
 ## 🚀 About Me
 
-- 🌍 **Location:** Boston, MA, USA
-- 🎓 **Education:** M.S. in Information Systems, Northeastern University (Expected May 2025)
-- 💻 **Experience:** Data Engineer Intern at Heeva Infra, ML & Data Science Intern at Fasttrack Software
-- 📚 **Interests:** Data Science, Machine Learning, AI, Cloud Computing, User Experience
-- 🎮 **Hobbies:** Gaming (MMORPGs, Assassin's Creed: Black Flag), Anime (One Piece), Outdoor Adventures
+🌍 **Location:** Boston, MA, USA
+📚 **Interests:** Data Science, Machine Learning, AI, Cloud Computing, User Experience
+🎮 **Hobbies:** Cloud watching, Hiking and Sleeping
 
 ---
 
 ## 🛠️ Skills
 
-- 🧑‍💻 **Languages:** Python, SQL, R, Java, C++, JavaScript
-- 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL, Snowflake
-- ☁️ **Big Data & Cloud:** AWS (S3, EC2, Lambda), Azure, Spark, Kafka, Athena, Databricks, Docker, Kubernetes
-- 🤖 **Machine Learning & AI:** TensorFlow, Keras, PyTorch, OpenCV, Neural Networks, NLP, BERT, LLM, GPT
-- 📊 **BI/ETL:** Power BI, Tableau, Excel, Looker, Talend, Jupyter, Colab, Google Analytics, Qlik Sense
+🧑‍💻 **Languages:** Python, SQL, R, Java, C++, JavaScript
+🗄️ **Databases:** MongoDB, PostgreSQL, MySQL, Snowflake
+☁️ **Big Data & Cloud:** AWS (S3, EC2, Lambda), Azure, Spark, Kafka, Athena, Databricks, Docker, Kubernetes
+🤖 **Machine Learning & AI:** TensorFlow, Keras, PyTorch, OpenCV, Neural Networks, NLP, BERT, LLM, GPT
+📊 **BI/ETL:** Power BI, Tableau, Excel, Looker, Talend, Jupyter, Colab, Google Analytics, Qlik Sense
 
 
 Feel free to reach out if you have any questions or just want to connect!
