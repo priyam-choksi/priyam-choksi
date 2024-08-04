@@ -12,16 +12,27 @@ Hi there! 👋 I'm Priyam (pronounced "PREE-yum"), a Data Engineer and ML Engine
 Currently, I’m learning about Generative AI and Prompt Engineering, learning how to create advanced AI systems that generate content and interact with users in creative ways.
 
 ---
+
 ## 🚀 About Me
+
 🌍 **Location:** Boston, MA, USA
+
 📚 **Interests:** Data Science, Machine Learning, AI, Cloud Computing, User Experience
-🎮 **Hobbies:** Cloud watching, Hiking and Sleeping
+
+🎮 **Hobbies:** Cloud watching, Hiking, and Sleeping
+
 ---
+
 ## 🛠️ Skills
+
 🧑‍💻 **Languages:** Python, SQL, R, Java, C++, JavaScript
+
 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL, Snowflake
+
 ☁️ **Big Data & Cloud:** AWS (S3, EC2, Lambda), Azure, Spark, Kafka, Athena, Databricks, Docker, Kubernetes
+
 🤖 **Machine Learning & AI:** TensorFlow, Keras, PyTorch, OpenCV, Neural Networks, NLP, BERT, LLM, GPT
+
 📊 **BI/ETL:** Power BI, Tableau, Excel, Looker, Talend, Jupyter, Colab, Google Analytics, Qlik Sense
 
 Feel free to reach out if you have any questions or just want to connect!
