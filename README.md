@@ -1,5 +1,5 @@
 # Priyam Deepak Choksi 🌟
-![Header Image](https://github.com/priyamchoksi/header.jpeg)
+![Header Image](https://github.com/priyam-choksi/priyam-choksi/blob/main/header.jpeg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/choksipriyam)
 [![Personal Website](https://img.shields.io/badge/Website-pink?style=flat&logo=google-chrome&logoColor=white)](https://priyamchoksi.com)
