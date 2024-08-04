@@ -33,13 +33,11 @@ When I’m not exploring data projects, I enjoy gaming, hiking, or solving puzzl
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-blue?style=flat&logo=snowflake&logoColor=white)
-
 ### Big Data & Cloud
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoftazure&logoColor=white)
@@ -49,7 +47,6 @@ When I’m not exploring data projects, I enjoy gaming, hiking, or solving puzzl
 ![Databricks](https://img.shields.io/badge/Databricks-red?style=flat&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)
-
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=white)
@@ -60,7 +57,6 @@ When I’m not exploring data projects, I enjoy gaming, hiking, or solving puzzl
 ![BERT](https://img.shields.io/badge/BERT-yellow?style=flat&logo=google&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-green?style=flat&logo=openaigym&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-lightblue?style=flat&logo=openai&logoColor=white)
-
 ### BI/ETL
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau&logoColor=white)
