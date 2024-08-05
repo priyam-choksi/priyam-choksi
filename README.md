@@ -16,13 +16,9 @@ When I'm not exploring data projects, I enjoy Cloud wathcing, Hiking and Sleepin
 ## 🛠️ Skills
 
 🧑‍💻 **Languages:** Python, SQL, R, Java, C++, JavaScript
-
 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL, Snowflake
-
 ☁️ **Big Data & Cloud:** AWS (S3, EC2, Lambda), Azure, Spark, Kafka, Athena, Databricks, Docker, Kubernetes
-
 🤖 **Machine Learning & AI:** TensorFlow, Keras, PyTorch, OpenCV, Neural Networks, NLP, BERT, LLM, GPT
-
 📊 **BI/ETL:** Power BI, Tableau, Excel, Looker, Talend, Jupyter, Colab, Google Analytics, Qlik Sense
 
 Feel free to reach out if you have any questions or just want to connect!
