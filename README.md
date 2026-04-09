@@ -6,9 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/priyam-choksi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/priyamchoksi)
 
-Hi there! 👋 I'm Priyam (pronounced "PREE-yum"), a Data Engineer and ML Engineer with hands-on experience in developing data pipelines, optimizing machine learning models, creating dashboards and visualizing data, and integrating business intelligence solutions. I’m all about making data work for us in practical, exciting ways.   
-
-Currently, I’m learning about Generative AI and Prompt Engineering, learning how to create advanced AI systems that generate content and interact with users in creative ways.
+Hi there! 👋 I'm Priyam (pronounced "PREE-yum"), a Data Analyst with hands-on experience in developing data pipelines, optimizing machine learning models, creating dashboards and visualizing data, and integrating business intelligence solutions. I’m all about making data work for us in practical, exciting ways.   
 
 When I'm not exploring data projects, I enjoy Cloud wathcing, Hiking and Sleeping. 
 
