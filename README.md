@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/priyam-choksi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/priyamchoksi)
 
-Hi there! 👋 I'm Priyam (pronounced "PREE-yum"), a data scientist and analyst with hands-on experience in building ML models, data pipelines, statistical analysis, and BI dashboards. I work across the full data stack, from wrangling messy datasets to publishing peer-reviewed research findings.
+Hi there! 👋 I'm Priyam (pronounced "PREE-yum"), a data analyst with hands-on experience in building ML models, data pipelines, statistical analysis, and BI dashboards. I work across the full data stack, from wrangling messy datasets to publishing peer-reviewed research findings.
 
 When I'm not working on data projects, I enjoy Thai cooking, competitive Pokémon, and Path of Exile.
 
