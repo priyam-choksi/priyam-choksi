@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Priyam Choksi, Data Engineer and AI Engineer">
+  <defs>
+    <clipPath id="frame"><rect width="1000" height="280" rx="14"/></clipPath>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="280" fill="#0a0a0b"/>
+
+    <circle cx="840" cy="10" r="230" fill="#ff6a3a" opacity="0.34" filter="url(#soft)">
+      <animate attributeName="cx" values="840;880;840" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.30;0.42;0.30" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="-40" r="160" fill="#ff4060" opacity="0.16" filter="url(#soft)">
+      <animate attributeName="cy" values="-40;-10;-40" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="290" r="210" fill="#7c5cff" opacity="0.26" filter="url(#soft)">
+      <animate attributeName="cx" values="90;130;90" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.22;0.32;0.22" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="64" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="500" fill="#a8a8ad">I'm <tspan font-weight="800" fill="#f3f3f1">Priyam Choksi</tspan></text>
+    <text x="66" y="154" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="4" fill="#a8a8ad">DATA ENGINEER &amp; AI ENGINEER &#183; USA</text>
+
+    <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#ff9a5c">
+      <text x="66" y="210" opacity="0">Production data platforms + the AI systems on top
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="210" opacity="0">192x faster research pipelines at Harvard Medical School
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="210" opacity="0">$1M+ recovered &#183; 5 peer-reviewed papers &#183; ESC Award
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="8s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="210" opacity="0">Open to DE / AI roles &#183; remote or onsite, US
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="12s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="999" height="279" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+  </g>
+</svg>
