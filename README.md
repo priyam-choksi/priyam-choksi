@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://priyamchoksi.com/banner.png" alt="Priyam Choksi — Data Engineer & AI Engineer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A3A,50:FF4060,100:7C5CFF&height=220&section=header&text=Priyam%20Choksi&fontSize=58&fontColor=f3f3f1&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%26%20AI%20Engineer%20%E2%80%A2%20USA&descSize=18&descAlignY=58" alt="Priyam Choksi — Data Engineer & AI Engineer" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://priyamchoksi.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=800&color=FF9A5C&center=true&vCenter=true&width=640&height=44&lines=Production+data+platforms+%2B+the+AI+systems+on+top;192x+faster+pipelines+at+Harvard+Medical+School;%241M%2B+recovered+-+5+peer-reviewed+papers+-+ESC+Award;Open+to+DE+%2F+AI+roles+-+remote+or+onsite%2C+US" alt="Highlights">
+  </a>
 </p>
 
 <p align="center">
@@ -9,23 +15,22 @@
   <a href="https://kaggle.com/priyamchoksi"><img src="https://img.shields.io/badge/Kaggle-151517?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle"></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>$1M+</b><br><sub>RECOVERED REVENUE & SAVINGS</sub></td>
-    <td align="center"><b>192×</b><br><sub>FASTER HARVARD PIPELINE</sub></td>
-    <td align="center"><b>5 papers</b><br><sub>PEER-REVIEWED · ESC AWARD</sub></td>
-  </tr>
-</table>
+<br>
 
-I build **production data platforms and the LLM and agent systems that run on top of them** — 4+ years across healthcare, finance, and SaaS, plus published medical-AI research.
+🏥 &nbsp;**Previously** — Brigham & Women's / Harvard Medical School: genomic pipeline from **48h batches to 15-min PySpark runs**, behind **5 publications**.
 
-> Most of my work is the same problem in different industries: a legacy system nobody trusts, feeding decisions that actually matter.
+🛠️ &nbsp;**Today** — I own the ingestion platform at Rebecca Everlene Trust: **5TB+ from 453 sources** into Snowflake, RAG at **92% accuracy**.
 
-**Looking for:** Data Engineer / AI Engineer roles in healthcare, fintech, or SaaS. Open to remote or onsite anywhere in the US.
+🎯 &nbsp;**Next** — Data / AI Engineer roles in healthcare, fintech, or SaaS. Remote or onsite, anywhere in the US.
 
 ### Stack
 
 <p align="center"><img src="https://img.shields.io/badge/Python-151517?style=flat-square&logo=python&logoColor=3776AB" alt="Python"> <img src="https://img.shields.io/badge/SQL-151517?style=flat-square&logo=postgresql&logoColor=6FA8DC" alt="SQL"> <img src="https://img.shields.io/badge/Spark-151517?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="Spark"> <img src="https://img.shields.io/badge/Databricks-151517?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks"> <img src="https://img.shields.io/badge/Airflow-151517?style=flat-square&logo=apacheairflow&logoColor=017CEE" alt="Airflow"> <img src="https://img.shields.io/badge/dbt-151517?style=flat-square&logo=dbt&logoColor=FF694B" alt="dbt"> <img src="https://img.shields.io/badge/Kafka-151517?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"> <img src="https://img.shields.io/badge/Snowflake-151517?style=flat-square&logo=snowflake&logoColor=29B5E8" alt="Snowflake"> <img src="https://img.shields.io/badge/Redshift-151517?style=flat-square&logo=amazonredshift&logoColor=8C4FFF" alt="Redshift"> <img src="https://img.shields.io/badge/BigQuery-151517?style=flat-square&logo=googlebigquery&logoColor=669DF6" alt="BigQuery"> <img src="https://img.shields.io/badge/AWS-151517?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-151517?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform"> <img src="https://img.shields.io/badge/Docker-151517?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"> <img src="https://img.shields.io/badge/PyTorch-151517?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"> <img src="https://img.shields.io/badge/LangChain-151517?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/Tableau-151517?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau"></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyam-choksi&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=FF9A5C&icon_color=7C5CFF&text_color=a8a8ad&ring_color=FF6A3A&count_private=true" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-choksi&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=FF9A5C&text_color=a8a8ad&langs_count=8" alt="Top languages" height="170">
+</p>
 
 ### Selected work
 
@@ -48,10 +53,10 @@ I build **production data platforms and the LLM and agent systems that run on to
 
 ### Off the clock
 
-Currently reading *Designing Data-Intensive Applications* and *Fundamentals of Data Engineering*. The full shelf, with honest notes per book, lives on the [bookshelf](https://priyamchoksi.com/#/reading).
-
----
+Currently reading *Designing Data-Intensive Applications* and *Fundamentals of Data Engineering* — the full shelf, with honest notes per book, lives on the [bookshelf](https://priyamchoksi.com/#/reading).
 
 <p align="center"><i>"You have power over your mind — not outside events. Realize this, and you will find strength."</i><br><sub>MARCUS AURELIUS · MEDITATIONS</sub></p>
 
-<p align="center"><sub>DESIGNED IN FIGMA · BUILT BY HAND · <a href="https://priyamchoksi.com">PRIYAMCHOKSI.COM</a></sub></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A3A,50:FF4060,100:7C5CFF&height=110&section=footer" alt="" width="100%">
+</p>
