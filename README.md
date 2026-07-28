@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://priyamchoksi.com"><img src="assets/header.svg" alt="Priyam Choksi, Data Engineer and AI Engineer" width="100%"></a>
+  <a href="https://priyamchoksi.com"><img src="header.svg" alt="Priyam Choksi, Data Engineer and AI Engineer" width="100%"></a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="mailto:pymchoksi@gmail.com"><b>Email</b></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 I'm Priyam, a data engineer who builds production data platforms and the LLM and agent systems that run on top of them. I'm also a published medical-AI researcher: five peer-reviewed papers and an ESC Young Investigator Award.
 
@@ -26,19 +26,19 @@ I'm Priyam, a data engineer who builds production data platforms and the LLM and
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="34" alt="Apache Spark" title="Apache Spark">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="34" alt="Databricks" title="Databricks">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="34" alt="Apache Airflow" title="Apache Airflow">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="34" alt="dbt" title="dbt">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apachekafka/8b949e" height="34" alt="Apache Kafka" title="Apache Kafka">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="34" alt="Snowflake" title="Snowflake">
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="34" alt="Snowflake" title="Snowflake">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="34" alt="BigQuery" title="BigQuery">
 </p>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" height="34" alt="Amazon Redshift" title="Amazon Redshift">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="34" alt="BigQuery" title="BigQuery">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="34" alt="AWS" title="AWS">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="34" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="34" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="34" alt="scikit-learn" title="scikit-learn">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="34" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/terraform/844FBA" height="34" alt="Terraform" title="Terraform">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="34" alt="Docker" title="Docker">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="34" alt="PyTorch" title="PyTorch">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/8b949e" height="34" alt="LangChain" title="LangChain">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="34" alt="Tableau" title="Tableau">
+  <img src="https://cdn.simpleicons.org/langchain/8b949e" height="34" alt="LangChain" title="LangChain">
 </p>
 
 *Languages:* Python (PySpark, FastAPI, pandas), SQL, R, Bash
@@ -53,7 +53,7 @@ I'm Priyam, a data engineer who builds production data platforms and the LLM and
 
 *Statistical Methods:* survival analysis, Cox regression, logistic regression, A/B testing, cohort analysis
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## Selected work
 
@@ -74,11 +74,7 @@ I'm Priyam, a data engineer who builds production data platforms and the LLM and
 - **Metabolomic signatures predicting MACE in rheumatoid arthritis** · *Annals of the Rheumatic Diseases* (EULAR), 2025 · [DOI](https://doi.org/10.1016/j.ard.2025.06.099)
 - **Text-conditional chest X-ray generation via latent diffusion** · *Preprints*, 2025 · first author · [DOI](https://doi.org/10.20944/preprints202506.1783.v1)
 
-## Off the clock
-
-Thai cooking, competitive Pokémon, and Path of Exile. Currently reading *Designing Data-Intensive Applications* and *Fundamentals of Data Engineering*; the full shelf, with notes per book, is on the [bookshelf](https://priyamchoksi.com/#/reading).
-
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <p align="center"><i>"You have power over your mind, not outside events. Realize this, and you will find strength."</i><br><sub>MARCUS AURELIUS · MEDITATIONS</sub></p>
 
