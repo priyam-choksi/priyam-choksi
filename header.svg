@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Priyam Choksi, Data Engineer and AI Engineer">
+  <defs>
+    <clipPath id="frame"><rect width="1000" height="280" rx="14"/></clipPath>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="280" fill="#0a0a0b"/>
+
+    <!-- aurora -->
+    <circle cx="840" cy="10" r="230" fill="#ff6a3a" opacity="0.34" filter="url(#soft)">
+      <animate attributeName="cx" values="840;880;840" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.30;0.42;0.30" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="-40" r="160" fill="#ff4060" opacity="0.16" filter="url(#soft)">
+      <animate attributeName="cy" values="-40;-10;-40" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="290" r="210" fill="#7c5cff" opacity="0.26" filter="url(#soft)">
+      <animate attributeName="cx" values="90;130;90" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.22;0.32;0.22" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- name -->
+    <text x="64" y="112" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="500" fill="#a8a8ad">I'm <tspan font-weight="800" fill="#f3f3f1">Priyam Choksi</tspan></text>
+    <text x="66" y="148" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="4" fill="#a8a8ad">DATA ENGINEER &amp; AI ENGINEER &#183; USA</text>
+
+    <!-- rotating highlight lines -->
+    <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#ff9a5c">
+      <text x="66" y="206" opacity="0">Production data platforms + the AI systems on top
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="206" opacity="0">192x faster research pipelines at Harvard Medical School
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="206" opacity="0">$1M+ recovered &#183; 5 peer-reviewed papers &#183; ESC Award
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="8s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="206" opacity="0">Open to DE / AI roles &#183; remote or onsite, US
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="12s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- lineage pipeline -->
+    <g stroke="#f3f3f1" stroke-opacity="0.28" stroke-width="1.6" fill="none">
+      <path id="e1" d="M700 96 C 738 96 742 66 780 66"/>
+      <path id="e2" d="M780 80 C 812 80 816 150 848 150"/>
+      <path id="e3" d="M848 164 C 812 164 818 224 852 224"/>
+    </g>
+    <g fill="#141416" stroke="#f3f3f1" stroke-opacity="0.75" stroke-width="1.6">
+      <rect x="648" y="82" width="52" height="30" rx="8"/>
+      <rect x="780" y="52" width="52" height="30" rx="8"/>
+      <rect x="848" y="136" width="52" height="30" rx="8"/>
+      <rect x="852" y="210" width="52" height="30" rx="8">
+        <animate attributeName="stroke-opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g stroke="#f3f3f1" stroke-opacity="0.25" stroke-width="1.4">
+      <line x1="660" y1="97" x2="688" y2="97"/>
+      <line x1="792" y1="67" x2="820" y2="67"/>
+      <line x1="860" y1="151" x2="888" y2="151"/>
+      <line x1="864" y1="225" x2="892" y2="225"/>
+    </g>
+    <g fill="#ff6a3a">
+      <circle r="3.4"><animateMotion dur="3.6s" begin="0s" repeatCount="indefinite" path="M700 96 C 738 96 742 66 780 66"/></circle>
+      <circle r="3.4"><animateMotion dur="3.6s" begin="1.2s" repeatCount="indefinite" path="M780 80 C 812 80 816 150 848 150"/></circle>
+      <circle r="3.4" fill="#7c5cff"><animateMotion dur="3.6s" begin="2.4s" repeatCount="indefinite" path="M848 164 C 812 164 818 224 852 224"/></circle>
+    </g>
+
+    <rect x="0.5" y="0.5" width="999" height="279" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+  </g>
+</svg>
