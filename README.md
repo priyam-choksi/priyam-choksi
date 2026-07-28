@@ -1,14 +1,25 @@
-![Header Image](https://github.com/priyam-choksi/priyam-choksi/blob/main/header.jpeg)
+<p align="center">
+  <img src="https://priyamchoksi.com/banner.png" alt="Priyam Choksi — Data Engineer & AI Engineer" width="100%">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/choksipriyam)
-[![Personal Website](https://img.shields.io/badge/Website-pink?style=flat&logo=google-chrome&logoColor=white)](https://priyamchoksi.com)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:choksi.pr@northeastern.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/priyam-choksi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/priyamchoksi)
+<p align="center">
+  <a href="https://linkedin.com/in/priyamchoksi"><img src="https://img.shields.io/badge/LinkedIn-151517?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="https://priyamchoksi.com"><img src="https://img.shields.io/badge/priyamchoksi.com-151517?style=flat-square&logo=googlechrome&logoColor=FF9A5C" alt="Website"></a>
+  <a href="mailto:pymchoksi@gmail.com"><img src="https://img.shields.io/badge/Email-151517?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://kaggle.com/priyamchoksi"><img src="https://img.shields.io/badge/Kaggle-151517?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle"></a>
+</p>
 
----
+<table align="center">
+  <tr>
+    <td align="center"><b>$1M+</b><br><sub>RECOVERED REVENUE & SAVINGS</sub></td>
+    <td align="center"><b>192×</b><br><sub>FASTER HARVARD PIPELINE</sub></td>
+    <td align="center"><b>5 papers</b><br><sub>PEER-REVIEWED · ESC AWARD</sub></td>
+  </tr>
+</table>
 
-I'm a Data Engineer with 4+ years building **production data platforms and the LLM and agent systems that run on top of them**, across healthcare, finance, and SaaS — and a published medical-AI researcher with **five peer-reviewed papers** and an **ESC Young Investigator Award**. Most of my work is the same problem in different industries: a legacy system nobody trusts, feeding decisions that matter. Highlights: a Harvard Medical School genomic pipeline rebuilt from **48-hour batches to 15-minute PySpark runs**, **$1M+ recovered** through forecasting and optimization, and a production RAG platform at **92% accuracy**.
+I build **production data platforms and the LLM and agent systems that run on top of them** — 4+ years across healthcare, finance, and SaaS, plus published medical-AI research.
+
+> Most of my work is the same problem in different industries: a legacy system nobody trusts, feeding decisions that actually matter.
 
 **Looking for:** Data Engineer / AI Engineer roles in healthcare, fintech, or SaaS. Open to remote or onsite anywhere in the US.
 
