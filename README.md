@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A3A,50:FF4060,100:7C5CFF&height=220&section=header&text=Priyam%20Choksi&fontSize=58&fontColor=f3f3f1&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%26%20AI%20Engineer%20%E2%80%A2%20USA&descSize=18&descAlignY=58" alt="Priyam Choksi — Data Engineer & AI Engineer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A3A,50:FF4060,100:7C5CFF&height=220&section=header&text=Priyam%20Choksi&fontSize=58&fontColor=f3f3f1&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%26%20AI%20Engineer%20%E2%80%A2%20USA&descSize=18&descAlignY=58" alt="Priyam Choksi · Data Engineer & AI Engineer" width="100%">
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
   <a href="https://kaggle.com/priyamchoksi"><img src="https://img.shields.io/badge/Kaggle-151517?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle"></a>
 </p>
 
-Hi there! 👋 I'm Priyam (pronounced "PREE-yum"), a data engineer who builds production data platforms and the LLM and agent systems that run on top of them. I work across the full data stack, from wrangling messy institutional datasets to publishing peer-reviewed research — five papers and an ESC Young Investigator Award so far.
+Hi there! 👋 I'm Priyam (pronounced "PREE-yum"), a data engineer who builds production data platforms and the LLM and agent systems that run on top of them. I work across the full data stack, from wrangling messy institutional datasets to publishing peer-reviewed research: five papers and an ESC Young Investigator Award.
 
 When I'm not working on data projects, I enjoy Thai cooking, competitive Pokémon, and Path of Exile.
 
-🏥 &nbsp;**Previously** — rebuilt a genomic pipeline at Brigham & Women's / Harvard Medical School from 48-hour batches into 15-minute PySpark runs; the models behind it sit under 5 publications.
+🏥 &nbsp;**Previously** · Rebuilt a genomic pipeline at Brigham & Women's / Harvard Medical School from 48-hour batches into 15-minute PySpark runs. The pipeline and models behind it support five publications.
 
-🛠️ &nbsp;**These days** — I own the ingestion platform at Rebecca Everlene Trust: 5TB+ of financial-aid data from 453 sources into Snowflake, plus a RAG system staff actually use, at 92% accuracy.
+🛠️ &nbsp;**These days** · I own the ingestion platform at Rebecca Everlene Trust: 5TB+ of financial-aid data from 453 sources into Snowflake, and a RAG system that answers staff policy questions at 92% accuracy.
 
-🎯 &nbsp;**Next** — Data / AI Engineer roles in healthcare, fintech, or SaaS. Remote or onsite, anywhere in the US.
+🎯 &nbsp;**Next** · Data and AI Engineer roles in healthcare, fintech, or SaaS. Remote or onsite, anywhere in the US.
 
 ## 🛠️ Skills
 
@@ -46,30 +46,39 @@ When I'm not working on data projects, I enjoy Thai cooking, competitive Pokémo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-choksi&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=FF9A5C&text_color=a8a8ad&langs_count=8" alt="Top languages" height="170">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyam-choksi&bg_color=0a0a0b&color=a8a8ad&line=FF6A3A&point=7C5CFF&area=true&area_color=FF6A3A&hide_border=true" alt="Contribution activity" width="94%">
+</p>
+
 ## 🚀 Selected work
 
 | Project | What it is | Links |
 |---|---|---|
 | **Trade Arena** | 11 agents turn market data into trades; 7 LLMs competed on identical data for 383 rounds and Llama-3.3-70B won at **+32.63%**; the Strategy Arena ran 1,800 tournament rounds over a shared $1M pool | [Live](https://tradearena.site) · [Repo](https://github.com/priyam-choksi/matsmatsmats) |
-| **Agentic Customer Triage** | Routes tickets into 27 categories at **91% accuracy** and resolves **74% of 2,000+ monthly tickets** with no human in the loop; LangGraph travel graph + a 3-agent banking chain | [Repo](https://github.com/priyam-choksi/agentic-customer-triage-system) |
+| **Agentic Customer Triage** | Routes tickets into 27 categories at **91% accuracy** and resolves **74% of 2,000+ monthly tickets** without human escalation; LangGraph travel graph + a 3-agent banking chain | [Repo](https://github.com/priyam-choksi/agentic-customer-triage-system) |
 | **CXR Latent Diffusion** | A **151.8M-parameter** system that generates chest X-rays from radiology text; SSIM 0.82, FID 18.7, ahead of the GAN and VQGAN baselines; first-author publication | [Paper](https://doi.org/10.20944/preprints202506.1783.v1) · [Repo](https://github.com/priyam-choksi/cxr_diffusion) |
-| **Multi-omics Pipeline** | The Harvard rebuild: **48–72h → 15 min** on 5.8TB, and researchers went from 2–3 analyses a week to 10–15 (code confidential per BWH policy) | [Site](https://priyamchoksi.com/#/projects) |
-| **DW & BI Integration** | Four source platforms (SQL Server, MySQL, PostgreSQL, Oracle) into one star-schema warehouse, built twice in parallel: Talend and SSIS | [Repo](https://github.com/priyam-choksi/Data-Integration-and-Business-Intelligence) |
+| **Multi-omics Pipeline** | The BWH / Harvard genomic pipeline: **48–72h → 15 min** on 5.8TB, and researchers went from 2–3 analyses a week to 10–15 (code confidential per BWH policy) | [Site](https://priyamchoksi.com/#/projects) |
+| **DW & BI Integration** | Four source platforms (SQL Server, MySQL, PostgreSQL, Oracle) into one star-schema warehouse, built in parallel in both Talend and SSIS | [Repo](https://github.com/priyam-choksi/Data-Integration-and-Business-Intelligence) |
 | **Diabetes Prediction Platform** | Logistic regression at **95.97% / 0.9587 ROC-AUC** on 100K records; I compared five algorithms and wrote the tradeoffs up as a paper | [Live](https://diabetes-prediction-and-analytics.streamlit.app/) · [Repo](https://github.com/priyam-choksi/Diabetes-Streamlit-App/) · [Demo](https://youtu.be/gIcCXWj7e-A) |
 
 ## 📄 Research
 
-- **AI metabolomics score for cardiovascular risk in psoriasis** — *American Journal of Preventive Cardiology*, 2026 · ESC Young Investigator Award · [DOI](https://doi.org/10.1016/j.ajpc.2026.101696)
-- **Plasma metabolites and incident HFrEF vs HFpEF** — *medRxiv*, 2026 · [DOI](https://doi.org/10.64898/2026.07.20.26358530)
-- **ML over plasma metabolomics, 38,628 participants** — *Circulation* (AHA Scientific Sessions), 2025 · [DOI](https://doi.org/10.1161/circ.152.suppl_3.4347325)
-- **Metabolomic signatures predicting MACE in rheumatoid arthritis** — *Annals of the Rheumatic Diseases* (EULAR), 2025 · [DOI](https://doi.org/10.1016/j.ard.2025.06.099)
-- **Text-conditional chest X-ray generation via latent diffusion** — *Preprints*, 2025 · first author · [DOI](https://doi.org/10.20944/preprints202506.1783.v1)
+- **AI metabolomics score for cardiovascular risk in psoriasis** · *American Journal of Preventive Cardiology*, 2026 · ESC Young Investigator Award · [DOI](https://doi.org/10.1016/j.ajpc.2026.101696)
+- **Plasma metabolites and incident HFrEF vs HFpEF** · *medRxiv*, 2026 · [DOI](https://doi.org/10.64898/2026.07.20.26358530)
+- **ML over plasma metabolomics, 38,628 participants** · *Circulation* (AHA Scientific Sessions), 2025 · [DOI](https://doi.org/10.1161/circ.152.suppl_3.4347325)
+- **Metabolomic signatures predicting MACE in rheumatoid arthritis** · *Annals of the Rheumatic Diseases* (EULAR), 2025 · [DOI](https://doi.org/10.1016/j.ard.2025.06.099)
+- **Text-conditional chest X-ray generation via latent diffusion** · *Preprints*, 2025 · first author · [DOI](https://doi.org/10.20944/preprints202506.1783.v1)
 
 ## 📚 Off the clock
 
-Currently reading *Designing Data-Intensive Applications* and *Fundamentals of Data Engineering* — the full shelf, with honest notes per book, lives on the [bookshelf](https://priyamchoksi.com/#/reading).
+Currently reading *Designing Data-Intensive Applications* and *Fundamentals of Data Engineering*. The full shelf, with honest notes per book, lives on the [bookshelf](https://priyamchoksi.com/#/reading).
 
-<p align="center"><i>"You have power over your mind — not outside events. Realize this, and you will find strength."</i><br><sub>MARCUS AURELIUS · MEDITATIONS</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyam-choksi/priyam-choksi/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/priyam-choksi/priyam-choksi/output/github-snake.svg" width="100%">
+</picture>
+
+<p align="center"><i>"You have power over your mind, not outside events. Realize this, and you will find strength."</i><br><sub>MARCUS AURELIUS · MEDITATIONS</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A3A,50:FF4060,100:7C5CFF&height=110&section=footer" alt="" width="100%">
