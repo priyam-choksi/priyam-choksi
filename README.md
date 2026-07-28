@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A3A,50:FF4060,100:7C5CFF&height=220&section=header&text=Priyam%20Choksi&fontSize=58&fontColor=f3f3f1&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%26%20AI%20Engineer%20%E2%80%A2%20USA&descSize=18&descAlignY=58" alt="Priyam Choksi · Data Engineer & AI Engineer" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://priyamchoksi.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=800&color=FF9A5C&center=true&vCenter=true&width=640&height=44&lines=Production+data+platforms+%2B+the+AI+systems+on+top;192x+faster+pipelines+at+Harvard+Medical+School;%241M%2B+recovered+-+5+peer-reviewed+papers+-+ESC+Award;Open+to+DE+%2F+AI+roles+-+remote+or+onsite%2C+US" alt="Highlights">
-  </a>
+  <a href="https://priyamchoksi.com"><img src="assets/header.svg" alt="Priyam Choksi · Data Engineer & AI Engineer" width="100%"></a>
 </p>
 
 <p align="center">
@@ -41,15 +35,6 @@ When I'm not working on data projects, I enjoy Thai cooking, competitive Pokémo
 
 📐 &nbsp;*Statistical Methods:* survival analysis, Cox regression, logistic regression, A/B testing, cohort analysis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyam-choksi&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=FF9A5C&icon_color=7C5CFF&text_color=a8a8ad&ring_color=FF6A3A&count_private=true" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-choksi&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=FF9A5C&text_color=a8a8ad&langs_count=8" alt="Top languages" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyam-choksi&bg_color=0a0a0b&color=a8a8ad&line=FF6A3A&point=7C5CFF&area=true&area_color=FF6A3A&hide_border=true" alt="Contribution activity" width="94%">
-</p>
-
 ## 🚀 Selected work
 
 | Project | What it is | Links |
@@ -73,13 +58,6 @@ When I'm not working on data projects, I enjoy Thai cooking, competitive Pokémo
 
 Currently reading *Designing Data-Intensive Applications* and *Fundamentals of Data Engineering*. The full shelf, with honest notes per book, lives on the [bookshelf](https://priyamchoksi.com/#/reading).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyam-choksi/priyam-choksi/output/github-snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/priyam-choksi/priyam-choksi/output/github-snake.svg" width="100%">
-</picture>
-
 <p align="center"><i>"You have power over your mind, not outside events. Realize this, and you will find strength."</i><br><sub>MARCUS AURELIUS · MEDITATIONS</sub></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A3A,50:FF4060,100:7C5CFF&height=110&section=footer" alt="" width="100%">
-</p>
+<p align="center"><sub>PURE SVG, NO SERVICES · <a href="https://priyamchoksi.com">PRIYAMCHOKSI.COM</a></sub></p>
