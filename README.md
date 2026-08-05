@@ -10,13 +10,9 @@
 
 <img src="divider.svg" width="100%" alt="">
 
-I'm Priyam, a data engineer who builds production data platforms and the LLM and agent systems that run on top of them. I'm also a published medical-AI researcher: five peer-reviewed papers and an ESC Young Investigator Award.
+I'm a data engineer who scaled a 48-hour genomic research pipeline into 15-minute distributed runs over 5.8TB, and who currently owns an ingestion platform consolidating financial-aid data from 453 institutional sources into a single warehouse. On the AI side, I've shipped a production RAG system that answers policy questions at 92% accuracy and an agentic triage system that resolves 74% of 2,000+ monthly tickets without human escalation. I'm also a published medical-AI researcher, with five peer-reviewed papers on risk prediction and generative imaging, and an ESC Young Investigator Award.
 
-**Previously** · Rebuilt a genomic pipeline at Brigham & Women's / Harvard Medical School from 48-hour batches into 15-minute PySpark runs over 5.8TB. The pipeline and models behind it support five publications.
-
-**These days** · I own the ingestion platform at Rebecca Everlene Trust: 5TB+ of financial-aid data from 453 sources into Snowflake, and a RAG system that answers staff policy questions at 92% accuracy.
-
-**Next** · Data and AI Engineer roles in healthcare, fintech, or SaaS. Remote or onsite, anywhere in the US.
+I'm looking for Data and AI Engineer roles in healthcare, fintech, or SaaS where I can own the data platform and build the AI systems on top of it. Remote or onsite, anywhere in the US.
 
 ## Skills
 
